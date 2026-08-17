@@ -90,8 +90,6 @@ Feel free to **Start, Stop, or Restart (2)** your virtual machine as needed from
 
      ![Enter Your Username](./media-gs/de1s1.png)
 
-3. Next, provide your password:
-
    - **Password:** <inject key="AzureAdUserPassword"></inject>
 
      ![Enter Your Password](./media-gs/de1s2.png)
