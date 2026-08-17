@@ -5,6 +5,10 @@
     "BaseURL": "https://github.com/CloudLabsAI-Azure/Data-security",
     "Files": [
       {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/nextgenprdctvtyrio/refs/heads/main/Getting-started.md",
+        "Order": 1
+      },
+      {
         "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/nextgenprdctvtyrio/refs/heads/main/Lab%201/Lab1.md",
         "Order": 2
       },
