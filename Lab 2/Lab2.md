@@ -71,7 +71,7 @@ a digital coworker that can:
 1.  Navigate to <https://m365.cloud.microsoft/chat/> to
     open Microsoft 365 Copilot.
 
-2.  Sign in with 
+2. Sign in with 
     - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
 
        ![](media/media/de1s1.png)
