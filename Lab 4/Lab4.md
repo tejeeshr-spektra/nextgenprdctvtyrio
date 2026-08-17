@@ -1,4 +1,4 @@
-Lab 4- Build the Project Knowledge Assistant Copilot Agent with
+# Lab 4- Build the Project Knowledge Assistant Copilot Agent with
 Microsoft IQ for trusted customer success
 
 Duration: 30 minutes
@@ -36,15 +36,14 @@ intelligent and trustworthy.
 1.  From a new browser, navigate to
     <https://m365.cloud.microsoft/chat/> 
      
- 2.  Sign in with 
+2.  Sign in with 
+    - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
 
-        - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
+       ![](media/media/de1s1.png)
 
-            ![](media/media/de1s1.png)
+	- **Password:** <inject key="AzureAdUserPassword"></inject>
 
-        - **Password:** <inject key="AzureAdUserPassword"></inject>
-
-            ![](media/media/de1s2.png)
+        ![](media/media/de1s2.png)
 
 2. When prompted with the **Stay signed in?** dialog, select **No** to continue.
 
