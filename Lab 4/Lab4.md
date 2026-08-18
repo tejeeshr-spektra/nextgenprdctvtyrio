@@ -95,7 +95,7 @@ intelligent and trustworthy.
 
     ![](media/media/dxe1t1s12.png)
 
-**Note:** *Before testing your Copilot Agent, ensure that all required
+>**Note:** *Before testing your Copilot Agent, ensure that all required
 source documents (such as project updates, SOP files, product
 specifications, shift handover notes, or any other referenced materials)
 are uploaded to the appropriate SharePoint site libraries and folders.

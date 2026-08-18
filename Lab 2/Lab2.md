@@ -214,7 +214,8 @@ sample documents there which will be used later in this lab.
     ![](media/media/image15.png)
 
 2.  Open Copilot from lower right corner. The Copilot chat pane opens
-    up.\
+    up.
+    
     ![](media/media/de2s15.png)
 
 3.  Paste the following prompt:
@@ -223,7 +224,7 @@ sample documents there which will be used later in this lab.
 
     ![](media/media/de2s16.png)
 
-4.  Expected Outcome
+4. Expected Outcome
 
 - Seamless flow across apps
 
@@ -264,27 +265,52 @@ sample documents there which will be used later in this lab.
 
     ![](media/media/image1b.png)
 
-## Key Takeaways
+## Exercise 4: The Cowork Advantage
 
-After completing this lab, participants will understand how ZAVA Retail
-transforms QBR preparation from:
+## Task 1: Launch a Cowork Session
 
-- ❌ Traditional Approach
+1. Navigate to <https://m365.cloud.microsoft/chat/> and select Cowork from the left pane.
 
-- Manual reporting
+2. Start a new Cowork session and paste the following prompt:
 
-- Disconnected tools
+    ```
+    Using the Zava QBR Sales Q2.xlsx, Zava QBR Template.docx, and the executive summary and presentation we've already created in the Zava Site, do the following: 1) Verify the presentation's numbers match the latest Excel analysis, 2) Draft a leadership summary email highlighting top 3 risks and top 3 opportunities, 3) Suggest a QBR readiness checklist for this week's Teams meeting.
+    ```
 
-- Slow coordination cycles
+    ![](media/media/de2s21.png)
 
-- ✅ Copilot Cowork Approach
+3. Expected Outcome:
 
-- AI-driven end-to-end execution
+    ![](media/media/de2s22.png)
 
-- Work IQ-powered continuity across apps
+## Lab Summary
 
-- Autonomous digital coworker behavior
+In this lab, you experienced Microsoft 365 Copilot Cowork as a digital
+coworker for ZAVA Retail's Quarterly Business Review preparation. You
+began by exploring the intelligence layer, using Copilot Chat to
+understand how Work IQ and Microsoft IQ unify internal enterprise data
+with broader organizational intelligence.
 
-- Teams as collaboration + orchestration hub
+You then built an end-to-end QBR story by creating a SharePoint site and
+uploading the sales workbook, QBR template, and presentation template.
+Using Copilot directly inside Excel, Word, and PowerPoint, you analyzed
+regional revenue trends, converted the analysis into an executive
+summary, and generated a 5-slide QBR presentation — demonstrating
+context retained across apps without manual re-entry of data.
 
-- Multi-agent reasoning with validation loops
+Next, you saw the invisible context advantage in Outlook, where Copilot
+automatically summarized priority emails and surfaced upcoming meetings
+using existing calendar and mailbox context, with no manual selection of
+source data required.
+
+Finally, you launched a Cowork session that autonomously verified the
+presentation numbers against the latest Excel analysis, drafted a
+leadership summary email highlighting key risks and opportunities, and
+suggested a QBR readiness checklist for the team's Teams meeting.
+
+This lab demonstrates how Microsoft 365 Copilot Cowork, powered by
+Work IQ, Web IQ, and multi-model reasoning, can transform a fragmented,
+manual QBR process into a coordinated, AI-driven workflow that produces
+executive-ready deliverables across Excel, Word, PowerPoint, Outlook,
+and Teams.
+
