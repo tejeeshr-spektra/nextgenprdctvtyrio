@@ -54,7 +54,6 @@ applications.
 ### Task 2: Update the Developer environment settings
 
 1. From a new tab in the browser, navigate to
-
     <https://admin.powerplatform.microsoft.com/> and sign in with 
  
     - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
@@ -164,13 +163,15 @@ generated.
 
     ![](media/media/image1c.png)
 
-10. From top right side click on **Save and exit** to save the table.\
+10. From top right side click on **Save and exit** to save the table.
+
     ![](media/media/image1d.png)
 
 ### Task 4: Add a file to the OneDrive
 
 1. From the top left of the Power Apps page, select the menu and
-    select **OneDrive**.\
+    select **OneDrive**.
+
     ![](media/media/image1e.png)
 
 2. Select  **My files** - **+ Create or upload**.
@@ -196,62 +197,65 @@ streamline IT workflows.
     <https://copilotstudio.microsoft.com> and
     choose **DevOne** environment.
 
+    ![](media/media/dwe1t3s3.png)
+
 2. Open <https://admin.powerplatform.microsoft.com/>.
     Select **Manage** -\> **Environments** -\> **Dev env** and select
-    the value of the **Environment ID**.\
+    the value of the **Environment ID**.
+
     ![](media/media/image21.png)
 
 3. Navigate back to the Copilot Studio tab and open
     <https://copilotstudio.microsoft.com/environments/>\<
     EnvironmentID \>(Replacing **\< Environment \>** with the value
-    fetched above)\
+    fetched above)
+    
     ![](media/media/image22.png)
 
 4. Select  **Agents**.
 
     ![](media/media/image23.png)
 
-5. Select  Create blank agent.\
+5. Select  **+ Create blank agent**.
+
     ![](media/media/image24.png)
 
-6.  Enter **Name and** select  **Create.**
+6.  Enter **Name** and select  **Create.**
 
     **Name:** **Zava IT Support Agent**
 
     ![](media/media/image25.png)
 
 7.  **Description & Instruction** : Select the **Copy** option and 
-    **Paste** it in the  **Description**  & **Instruction** field:
+    **Paste** it in the  **Description**  & **Instruction** field and click **Save**.
 
 - **Description:**
 
-+++Create a Zava IT Support Agent which transforms IT support at Contoso
-Solutions by providing instant troubleshooting for common issues,
-automating ticket creation for unresolved problems, and storing all
-interactions in Dataverse. This solution enhances response times,
-reduces manual workloads, and boosts employee productivity.+++
+    ```
+    Create a Zava IT Support Agent which transforms IT support at Contoso Solutions by providing instant troubleshooting for common issues,
+    automating ticket creation for unresolved problems, and storing all
+    interactions in Dataverse. This solution enhances response times,reduces manual workloads, and boosts employee productivity.
+    ```
 
 - **Instruction**(Select the **Copy** option and **Paste** it in
   the **Instruction** field):
 
-+++Create the Copilot Agent and configure it to handle IT support
-operations. Add a knowledge source containing solutions for common IT
-issues like hardware troubleshooting, connectivity, and software
-glitches. Set up a trigger to detect updates to a OneDrive file
-describing unresolved issues. Create an action to save these technical
-issues into a Dataverse table, ensuring all details are stored for
-tracking and reporting. Test the agent to validate its troubleshooting
-accuracy and ticket automation workflow before deployment.+++
+    ```
+    Create the Copilot Agent and configure it to handle IT support operations. Add a knowledge source containing solutions for common IT issues like hardware troubleshooting, connectivity, and software glitches. Set up a trigger to detect updates to a OneDrive file describing unresolved issues. Create an action to save these technical issues into a Dataverse table, ensuring all details are stored for tracking and reporting. Test the agent to validate its troubleshooting accuracy and ticket automation workflow before deployment.
 
-![](media/media/image26.png)
+    ```
 
-8.  From top right corner of the agent, click on
-    the **Settings** button.\
+    ![](media/media/image26.png)
+
+8. From top right corner of the agent, click on
+    the **Settings** button.
+
     ![](media/media/image27.png)
 
-9.  Scroll down and disable the **Allow ungrounded responses** option
+9. Scroll down and disable the **Allow ungrounded responses** option
     and **Use information from the web** under the **Knowledge** section
-    and then click on **Save**.\
+    and then click on **Save**.
+
     ![](media/media/image33.png)
 
 10. Once **saved**, **close** the Settings pane.
@@ -260,38 +264,43 @@ accuracy and ticket automation workflow before deployment.+++
 
 This exercise focuses on enhancing the capabilities of the Zava IT
 Support Agent by adding a knowledge base and customizing bot topics for
-improved interaction. Participants will refine the bot\'s responses and
+improved interaction. Participants will refine the bot's responses and
 ensure it effectively assists users in troubleshooting and escalation.
 
 ### Task 1: Add Knowledge Base
 
 1.  On the Zava agent overview page, scroll down and click on **+ Add
-    Knowledge** button.\
+    Knowledge** button.
+
     ![](media/media/image34.png)
 
-2.  Select **Upload file** to add the lab file  **Zava Common IT
-    Issue.docx** from **C:\\LabFiles\\Labfiles\\Autonomous
-    agent** folder and then click on **Add to agent** to save the file.\
+2.  Select **Upload file** to add the lab file  **Support Ticket_1.xlsx** from **C:\Users\LabFiles\labfiles\lab 8 files** folder and then click on **Add to agent** to save the file.
+
     ![](media/media/image35.png)
 
-3.  Again, go to agent overview page, scroll down and click on **+ Add
-    knowledge.**\
+3. Again, go to agent overview page, scroll down and click on **+ Add
+    knowledge.**
+
     ![](media/media/image36.png)
 
-4.  Select **Dataverse** option as data source.\
+1. Select **Dataverse** option as data source.
+
     ![](media/media/image37.png)
 
-5.  Search for +++Employee+++, select **Employee Support Ticket** table.
-    Then select **Add to agent** button to add the knowledge source.\
-    ![](media/media/image38.png)6. Select **Publish** agent.\
+5.  Search for Support Ticket, select **Support Ticket** table.
+    Then select **Add to agent** button to add the knowledge source.
+
+    ![](media/media/image38.png)
+    
+6. Select **Publish** agent.
+
+    ![](media/media/dxe3s6.png)
+
     ![](media/media/image2b.png)
 
-\[!Note\] The **table name might be different** in your case since it is
-a Copilot generated one. Try searching for +++Support Ticket+++ if
-needed.
+    >**Note:** The **table name might be different** in your case since it is a Copilot generated one. Try searching for **Support Ticke**t if needed.
 
-\[!Alert\] **Important:** From the Knowledge page, ensure that the added
-knowledge source has been successfully uploaded. This will generally
+    >**Important:** From the Knowledge page, ensure that the added knowledge source has been successfully uploaded. This will generally
 take 10 to 15 30 minutes to complete.
 
 ## Exercise 4: Test the agent
@@ -301,17 +310,18 @@ Agent to validate its functionality. Participants will check how the bot
 handles prompts using the knowledge base and fallback topics to ensure
 seamless interaction and escalation.
 
-1.  From top right corner click on the **Test** button.
+1. From top right corner click on the **Test** button.
 
-![](media/media/image3a.png)
+    ![](media/media/image3a.png)
 
-2.  Enter the prompt +++My printer is not working how to fix it+++ . It
-    gives the solution as per knowledge source.\
-    ![](media/media/image3b.png)
+2. Enter the prompt ```My printer is not working how to fix it.``` It
+    gives the solution as per knowledge source.
+
+    ![](media/media/dxe4s1.png)
 
 3.  Review the output:
 
-![](media/media/image3c.png)
+    ![](media/media/image3c.png)
 
 ## Lab Summary
 
