@@ -89,7 +89,7 @@ By the end of this lab, you will be able to:
     
     ![](media/media/image9.png)
 
-2. In the upload dialog, navigate to **`C:\Users\LabFiles\labfiles\lab 9 files`**, select the file, and then choose **Open** to upload it to the document library.
+2. In the upload dialog, navigate to **`C:\LabFiles\labfile\lab 9 files`**, select the file, and then choose **Open** to upload it to the document library.
 
     ![](media/media/dwe1t1s7.png)
 

@@ -131,7 +131,7 @@ Task 1: Create the SharePoint site
 
     ![](media/media/dze1s10.png)
 
-1. Navigate to **`C:\Users\LabFiles\labfiles\lab 3 files\files (10)`**
+1. Navigate to **`C:\LabFiles\labfile\lab 3 files\files (10)`**
 
 9.  Upload the following files in the Document center:
 

@@ -82,7 +82,7 @@ intelligent and trustworthy.
 
     ![](media/media/dye1t1s10.png)
     
-1. Navigate to **`C:\Users\LabFiles\labfiles\lab 4 files`**, select all two files in the folder, and then choose **Open** to upload them to the SharePoint document library.
+1. Navigate to **`C:\LabFiles\labfile\lab 4 files`**, select all two files in the folder, and then choose **Open** to upload them to the SharePoint document library.
 
     ![](media/media/dxe1t1s11.png)
 

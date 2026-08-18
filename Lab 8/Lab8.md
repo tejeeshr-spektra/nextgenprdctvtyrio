@@ -125,7 +125,7 @@ applications.
 
     ![](media/media/image15.png)
 
-4.  Click on the **Select form device** option and select **Support Ticket** excel file from  **C:\Users\LabFiles\labfiles\lab 8 files**  folder.
+4.  Click on the **Select form device** option and select **Support Ticket** excel file from  `C:\LabFiles\labfile\lab 8 files`  folder.
 
     ![](media/media/dxt3s4.png)
 
@@ -209,7 +209,7 @@ streamline IT workflows.
     <https://copilotstudio.microsoft.com/environments/>\<
     EnvironmentID \>(Replacing **\< Environment \>** with the value
     fetched above)
-    
+
     ![](media/media/image22.png)
 
 4. Select  **Agents**.
