@@ -183,7 +183,8 @@ will not rename anything until you approve.
 Task 3: Creating a new folder
 
 1.  In the message box, paste the following prompt and select execute
-    button:\
+    button:
+    
     ```
     Proceed with suggesting renaming and create new folder for all latest renamed files.
     ```
@@ -201,7 +202,8 @@ Task 3: Creating a new folder
 
     ![](media/media/dze1t2s8.png)
 
-4.  Review the output:\
+4.  Review the output:
+
     ![](media/media/dze1t2s9.png)
 
 ## Exercise 2 -- OneDrive and SharePoint governance audit
@@ -225,14 +227,16 @@ governance action.
 
     ![](media/media/dze2t1s1.png)
 
-2.  Review the output:\
+2.  Review the output:
+
     ![](media/media/dze2t1s2.png)
 
 ### Task 2: Review the Audit Report
 
 1.  READ Section 1 --- Duplicate files 🔴 (biggest issue):
     duplicates identified by byte-identical content hash and 2 versioned
-    near-duplicate pairs.\
+    near-duplicate pairs.
+
     ![](media/media/dze2t1s3.png)
 
 2.  READ Section 2 --- Stale files ⭕: files identified as archive
@@ -252,7 +256,9 @@ governance action.
     ![](media/media/dze2t1s6.png)
 
 5.  READ the 'Suggested next steps (on your go-ahead)' numbered action
-    menu at the bottom.![](media/media/image17.png)
+    menu at the bottom.
+    
+    ![](media/media/image17.png)
 
 ### Task 3: Execute one governance recommendation
 
@@ -260,7 +266,7 @@ governance action.
     2024/2025/legacy items) and click Execute button.
 
     >Note: Cowork executes ONLY action #2. Actions #1, #3, #4, and #5 remain
-    pending --- approval of one does not authorize it all.*\
+    pending --- approval of one does not authorize it all.*
 
     ![](media/media/image18.png)
 

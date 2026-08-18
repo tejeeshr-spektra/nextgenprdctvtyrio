@@ -1,4 +1,4 @@
-# Design Intelligent Workflow Agent: Smart email triage & productivity insights with Copilot
+# Lab 1- Design Intelligent Workflow Agent: Smart email triage & productivity insights with Copilot
 
 ### Duration: 30 Minutes
 
@@ -236,7 +236,7 @@ details.
 
     - Is Teams message structured clearly?
 
-## **Exercise 3: Add Human-in-the-Loop**
+## Exercise 3: Add Human-in-the-Loop
 
 Marie Brown (Customer Support Manager) wants approval before sending
 summaries to leadership team.
@@ -291,7 +291,7 @@ summaries to leadership team.
 
    ![](media/media/image18.png)
 
-## **Exercise 4: Autonomous Workflow**
+## Exercise 4: Autonomous Workflow
 
 Marie Brown (Customer Support Manager) wants to reduce missed
 follow-ups.
