@@ -1,5 +1,4 @@
-Lab 9: Securing & Orchestrating Multi-Agent AI for Zava Retail with
-Microsoft Copilot Studio
+# Lab 9- Securing & Orchestrating Multi-Agent AI for Zava Retail with Copilot Studio
 
 ## Lab scenario
 

@@ -1,5 +1,4 @@
-# Lab 4- Build the Project Knowledge Assistant Copilot Agent with
-Microsoft IQ for trusted customer success
+# Lab 4- Build the Project Knowledge Assistant Copilot Agent with Microsoft IQ for trusted customer success
 
 Duration: 30 minutes
 

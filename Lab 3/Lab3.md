@@ -1,5 +1,4 @@
-
-# Lab 3 -- Copilot Cowork: Intelligent File Organizer
+# Lab 3- Intelligent File Organizer with Copilot Cowork
 
 Estimated Time -30 minutes
 
