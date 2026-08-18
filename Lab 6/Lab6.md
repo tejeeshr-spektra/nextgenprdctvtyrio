@@ -1,4 +1,4 @@
-# Lab 6- Extend Microsoft 365 Copilot Chat with a declarative HR agent using Copilot Studio and SharePoint
+# Lab 6- Extend Microsoft 365 Copilot Chat with a HR agent built using Copilot Studio
 
 ## Lab scenario
 

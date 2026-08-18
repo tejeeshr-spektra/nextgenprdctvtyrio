@@ -1,4 +1,4 @@
-# Lab 7 - Build an autonomous financial data retrieval agent with Computer-Using Agents (CUA)
+# Lab 7- Build an autonomous financial data retrieval agent with Computer-Using Agents (CUA)
 
 **Introduction**
 
