@@ -1,5 +1,4 @@
-
-# Lab 2 -- Microsoft 365 Copilot Chat: AI Powered Digital Coworker in Action
+# Lab 2 - Copilot Cowork: AI Powered Digital Coworker in Action
 
 Lab Duration: 30 minutes
 
@@ -71,7 +70,7 @@ a digital coworker that can:
 1.  Navigate to <https://m365.cloud.microsoft/chat/> to
     open Microsoft 365 Copilot.
 
-2.  Sign in with 
+2. Sign in with 
     - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
 
        ![](media/media/de1s1.png)
@@ -150,7 +149,7 @@ sample documents there which will be used later in this lab.
 
     ![](media/media/de2s7.png)
 
-1. Navigate to **`C:\Users\LabFiles\labfiles\lab 2 files`**, select all four files in the folder, and then choose **Open** to upload them to the SharePoint document library.
+1. Navigate to **`C:\LabFiles\labfile\lab 2 files`**, select all four files in the folder, and then choose **Open** to upload them to the SharePoint document library.
 
     ![](media/media/de2s8.png)
 

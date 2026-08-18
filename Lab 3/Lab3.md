@@ -131,7 +131,7 @@ Task 1: Create the SharePoint site
 
     ![](media/media/dze1s10.png)
 
-1. Navigate to **`C:\Users\LabFiles\labfiles\lab 3 files\files (10)`**
+1. Navigate to **`C:\LabFiles\labfile\lab 3 files\files (10)`**
 
 9.  Upload the following files in the Document center:
 
@@ -239,17 +239,17 @@ governance action.
     candidates based on filename-embedded dates (metadata dates were
     updated by the Exercise 1 renames).
 
-![](media/media/dze2t1s4.png)
+    ![](media/media/dze2t1s4.png)
 
 3.  READ Section 3 --- External shares ✅: all 28 files show owner-only
     permissions (CLEAN --- no action needed).
 
-![](media/media/dze2t1s5.png)
+    ![](media/media/dze2t1s5.png)
 
 4.  READ Section 4 --- No clear owner 🟡: LegacyPolicy and all 13 empty
     .xlsx placeholder files flagged.
 
-![](media/media/dze2t1s6.png)
+    ![](media/media/dze2t1s6.png)
 
 5.  READ the 'Suggested next steps (on your go-ahead)' numbered action
     menu at the bottom.![](media/media/image17.png)
