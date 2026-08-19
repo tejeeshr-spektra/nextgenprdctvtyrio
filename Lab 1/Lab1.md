@@ -208,9 +208,6 @@ After processing your prompt, you will see the run results:
 
 1. Emails detected.
 
-   >**Note:** You need to send different types of sample emails to the
-account to verify that the workflow triggers a notification in Microsoft Teams. If you do not have any new unread emails in your inbox, you will need to do send test emails to validate the workflow and outputs.
-
 3. Email categorization accuracy.
 
 4. Ensure that the Teams message format is matching the Outlook email
@@ -228,13 +225,13 @@ details.
 
 6. Check for the following test results for Zava Retail.
 
-    - Are customer complaints in urgent?
+    - Are urgent items clearly identified?
 
-    - Are supplier delays highlighted?
+    - Are action-required items clearly highlighted?
 
-    - Are summaries actionable?
+    - Are FYI updates presented clearly?
 
-    - Is Teams message structured clearly?
+    - Are key highlights and business risks summarized?
 
 ## Exercise 3: Add Human-in-the-Loop
 
@@ -276,6 +273,18 @@ summaries to leadership team.
    ![](media/media/image23.png)
 
    ![](media/media/image24.png)
+
+1. Navigate to outlook using ODL credentials and click on New Mail.
+
+   ```
+   To: ODL EmailId
+   Subject:Vendor Confirmation Pending for Diwali Gift Hampers
+   Body: Hi Procurement Team,
+         We are still awaiting confirmation from two vendors for Diwali gift hamper packaging and ribbon supplies.
+         If not confirmed today, dispatch timelines may be impacted.
+         Please prioritize follow-up.
+         Thanks,
+   ```
 
 5. Review the output of approval prompt.
 
@@ -326,6 +335,24 @@ follow-ups.
 4. Once the workflow is saved, select **Test**.
 
    ![](media/media/image27.png)
+
+1. Navigate to outlook using ODL credentials and click on New Mail.
+
+   ```
+   To: ODL EmailId
+   Subject:Final Approval Needed for Zava Festive Campaign Creatives
+   Body: Hi Marketing Leadership,
+   The final creative set for the Zava Festive Campaign is ready for sign-off. We need approval by 3:00 PM today to meet media publishing timelines.
+   Assets included:
+      * Homepage banners
+      * Social media ads
+      * In-store posters
+      * Email campaign creatives
+   Please review urgently.
+   Regards,
+   Neha Kapoor
+   Brand Marketing
+   ```
 
 5. Review the outcome:
 
